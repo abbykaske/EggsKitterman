@@ -1,0 +1,103 @@
+html {
+    height: 100%;
+}
+
+body {
+    height: 100%;
+    background-color: ;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+header {
+    background-color: ;
+    padding: 0 200px;
+    text-align: center;
+    border: ;
+    color: black;
+    margin: 0 auto;
+    ;
+    font-size: 30px;
+    display: block;
+    width: auto;
+}
+
+nav {
+    text-align: center
+}
+
+nav ul {
+    border-bottom: 3px solid black;
+    list-style-type: none;
+}
+
+nav li {
+    display: inline-block;
+}
+
+nav li a {
+    display: inline-block;
+    height: 25px;
+    padding: 12px 18px 8px 18px;
+}
+
+a:link {
+    color: #E56B1F;
+}
+
+a:visited {
+    color: #E56B1F
+}
+
+a:hover {
+    background-color: #561227
+}
+
+h1 {
+    font-size: ;
+    font-family: sans-serif;
+    ;
+    color: ;
+}
+
+h2 {
+    font-size: 30px;
+    font-family: ;
+    font-weight: bolder;
+}
+div.chillin{
+  height:400px;
+  padding-top: 120px
+}
+
+p {
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px;
+    text-align: center;
+}
+
+img.rotate{
+  -ms-transform: rotate(270deg); /* IE 9 */
+    -webkit-transform: rotate(270deg); /* Chrome, Safari, Opera */
+    transform: rotate(270deg);
+}
+section {
+    width: 0 auto;
+    padding: 5px;
+    text-align: center;
+}
+
+article {
+    Width: 500px;
+    margin: 5px text-align: center;
+    display: inline-block;
+}
+
+footer {
+    width: 100%;
+    background-color: ;
+    align-items: center;
+    padding: 5px;
+    display: block;
+}
